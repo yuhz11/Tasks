@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h1>第一个网站</h1>
+    </head>
+    <body>
+            <div >
+                
+                <img class="bgc" src="C:\前端\HTML\QQ图片20221113101012.jpg" width="100%" alt="">
+                <h3 class="title">欢迎来到我的个人网站</h3>
+                <h3 class="titles">今天也要加油鸭</h3>
+    
+            </div>
+    </body>
+</html>
